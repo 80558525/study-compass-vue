@@ -1,0 +1,2924 @@
+{
+  "C1": [
+    {
+      "id": "202659101",
+      "name": "陈轶博",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 74.5,
+          "math": 89,
+          "english": 80,
+          "history": 51,
+          "politics": 48
+        },
+        "e2": {
+          "chinese": 86,
+          "math": 91.5,
+          "english": 74,
+          "history": 50,
+          "politics": 60
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1714,
+          "chinese": 1525,
+          "math": 1416,
+          "english": 1877,
+          "history": 1403,
+          "politics": 1853
+        },
+        "e2": {
+          "total": 1842,
+          "chinese": 1734,
+          "math": 1732,
+          "english": 1980,
+          "history": 1639,
+          "politics": 1037
+        }
+      }
+    },
+    {
+      "id": "202659102",
+      "name": "陈宇桐",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 87.5,
+          "math": 103,
+          "english": 115,
+          "history": 60,
+          "politics": 53
+        },
+        "e2": {
+          "chinese": 95.5,
+          "math": 117,
+          "english": 117,
+          "history": 60,
+          "politics": 65
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 500,
+          "chinese": 221,
+          "math": 738,
+          "english": 191,
+          "history": 470,
+          "politics": 1564
+        },
+        "e2": {
+          "total": 296,
+          "chinese": 778,
+          "math": 263,
+          "english": 240,
+          "history": 613,
+          "politics": 324
+        }
+      }
+    },
+    {
+      "id": "202659103",
+      "name": "冯楷潇",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 70.5,
+          "math": 64,
+          "english": 61,
+          "history": 48,
+          "politics": 53
+        },
+        "e2": {
+          "chinese": 79,
+          "math": 62,
+          "english": 70,
+          "history": 41,
+          "politics": 49
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 2013,
+          "chinese": 1787,
+          "math": 2023,
+          "english": 2077,
+          "history": 1653,
+          "politics": 1564
+        },
+        "e2": {
+          "total": 2096,
+          "chinese": 2012,
+          "math": 2126,
+          "english": 2014,
+          "history": 2031,
+          "politics": 1996
+        }
+      }
+    },
+    {
+      "id": "202659104",
+      "name": "高诚恺",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 70,
+          "math": 104,
+          "english": 93,
+          "history": 44,
+          "politics": 45
+        },
+        "e2": {
+          "chinese": 71.5,
+          "math": 96.5,
+          "english": 99,
+          "history": 35,
+          "politics": 64
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1583,
+          "chinese": 1811,
+          "math": 672,
+          "english": 1562,
+          "history": 1885,
+          "politics": 1989
+        },
+        "e2": {
+          "total": 1801,
+          "chinese": 2123,
+          "math": 1560,
+          "english": 1546,
+          "history": 2147,
+          "politics": 452
+        }
+      }
+    },
+    {
+      "id": "202659105",
+      "name": "郭浩楠",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 72.5,
+          "math": 109,
+          "english": 108,
+          "history": 56,
+          "politics": 52
+        },
+        "e2": {
+          "chinese": 95,
+          "math": 118,
+          "english": 110,
+          "history": 53,
+          "politics": 65
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 927,
+          "chinese": 1670,
+          "math": 407,
+          "english": 770,
+          "history": 894,
+          "politics": 1631
+        },
+        "e2": {
+          "total": 656,
+          "chinese": 855,
+          "math": 230,
+          "english": 961,
+          "history": 1384,
+          "politics": 324
+        }
+      }
+    },
+    {
+      "id": "202659106",
+      "name": "韩霈尧",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 75,
+          "math": 111,
+          "english": 114,
+          "history": 62,
+          "politics": 53
+        },
+        "e2": {
+          "chinese": 98.5,
+          "math": 110.5,
+          "english": 115,
+          "history": 60,
+          "politics": 67
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 571,
+          "chinese": 1465,
+          "math": 296,
+          "english": 273,
+          "history": 258,
+          "politics": 1564
+        },
+        "e2": {
+          "total": 400,
+          "chinese": 345,
+          "math": 858,
+          "english": 471,
+          "history": 613,
+          "politics": 116
+        }
+      }
+    },
+    {
+      "id": "202659107",
+      "name": "杭钰浚",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 84,
+          "math": 104,
+          "english": 115,
+          "history": 62,
+          "politics": 54
+        },
+        "e2": {
+          "chinese": 97,
+          "math": 119.5,
+          "english": 116,
+          "history": 59,
+          "politics": 61
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 489,
+          "chinese": 500,
+          "math": 672,
+          "english": 191,
+          "history": 258,
+          "politics": 1468
+        },
+        "e2": {
+          "total": 361,
+          "chinese": 559,
+          "math": 147,
+          "english": 362,
+          "history": 715,
+          "politics": 906
+        }
+      }
+    },
+    {
+      "id": "202659108",
+      "name": "禾皓轩",
+      "pin": true,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 78.5,
+          "math": 111,
+          "english": 113,
+          "history": 56,
+          "politics": 60
+        },
+        "e2": {
+          "chinese": 96,
+          "math": 120,
+          "english": 115,
+          "history": 61,
+          "politics": 52
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 500,
+          "chinese": 1116,
+          "math": 296,
+          "english": 359,
+          "history": 894,
+          "politics": 783
+        },
+        "e2": {
+          "total": 574,
+          "chinese": 700,
+          "math": 1,
+          "english": 471,
+          "history": 487,
+          "politics": 1859
+        }
+      }
+    },
+    {
+      "id": "202659109",
+      "name": "胡景垚",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 80.5,
+          "math": 69.5,
+          "english": 107,
+          "history": 56,
+          "politics": 60
+        },
+        "e2": {
+          "chinese": 98,
+          "math": 99,
+          "english": 109,
+          "history": 59,
+          "politics": 65
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1367,
+          "chinese": 874,
+          "math": 1948,
+          "english": 844,
+          "history": 894,
+          "politics": 783
+        },
+        "e2": {
+          "total": 953,
+          "chinese": 419,
+          "math": 1454,
+          "english": 1030,
+          "history": 715,
+          "politics": 324
+        }
+      }
+    },
+    {
+      "id": "202659110",
+      "name": "康晋硕",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 82,
+          "math": 120,
+          "english": 119,
+          "history": 67,
+          "politics": 70
+        },
+        "e2": {
+          "chinese": 95.5,
+          "math": 120,
+          "english": 118,
+          "history": 60,
+          "politics": 61
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 8,
+          "chinese": 688,
+          "math": 1,
+          "english": 8,
+          "history": 20,
+          "politics": 21
+        },
+        "e2": {
+          "total": 296,
+          "chinese": 778,
+          "math": 1,
+          "english": 121,
+          "history": 613,
+          "politics": 906
+        }
+      }
+    },
+    {
+      "id": "202659111",
+      "name": "李皓轩",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 80,
+          "math": 110,
+          "english": 99,
+          "history": 54,
+          "politics": 48
+        },
+        "e2": {
+          "chinese": 90.5,
+          "math": 118,
+          "english": 110,
+          "history": 55,
+          "politics": 57
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1046,
+          "chinese": 935,
+          "math": 358,
+          "english": 1330,
+          "history": 1112,
+          "politics": 1853
+        },
+        "e2": {
+          "total": 945,
+          "chinese": 1384,
+          "math": 230,
+          "english": 961,
+          "history": 1160,
+          "politics": 1427
+        }
+      }
+    },
+    {
+      "id": "202659112",
+      "name": "李佳骏",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 68,
+          "math": 100,
+          "english": 105,
+          "history": 55,
+          "politics": 49
+        },
+        "e2": {
+          "chinese": 85.5,
+          "math": 110,
+          "english": 111,
+          "history": 53,
+          "politics": 56
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1303,
+          "chinese": 1908,
+          "math": 901,
+          "english": 981,
+          "history": 1007,
+          "politics": 1801
+        },
+        "e2": {
+          "total": 1252,
+          "chinese": 1770,
+          "math": 870,
+          "english": 876,
+          "history": 1384,
+          "politics": 1541
+        }
+      }
+    },
+    {
+      "id": "202659113",
+      "name": "李铭浩",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 71,
+          "math": 114,
+          "english": 111,
+          "history": 58,
+          "politics": 59
+        },
+        "e2": {
+          "chinese": 85.5,
+          "math": 92,
+          "english": 117,
+          "history": 54,
+          "politics": 59
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 614,
+          "chinese": 1756,
+          "math": 163,
+          "english": 534,
+          "history": 680,
+          "politics": 914
+        },
+        "e2": {
+          "total": 1387,
+          "chinese": 1770,
+          "math": 1718,
+          "english": 240,
+          "history": 1270,
+          "politics": 1180
+        }
+      }
+    },
+    {
+      "id": "202659114",
+      "name": "李镇豪",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 60,
+          "math": 87,
+          "english": 83,
+          "history": 42,
+          "politics": 45
+        },
+        "e2": {
+          "chinese": 76,
+          "math": 111.5,
+          "english": 74,
+          "history": 44,
+          "politics": 59
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1920,
+          "chinese": 2136,
+          "math": 1480,
+          "english": 1812,
+          "history": 1967,
+          "politics": 1989
+        },
+        "e2": {
+          "total": 1817,
+          "chinese": 2067,
+          "math": 779,
+          "english": 1980,
+          "history": 1919,
+          "politics": 1180
+        }
+      }
+    },
+    {
+      "id": "202659115",
+      "name": "刘晨昊",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 67.5,
+          "math": 81.5,
+          "english": 98,
+          "history": 35,
+          "politics": 54
+        },
+        "e2": {
+          "chinese": 69.5,
+          "math": 80,
+          "english": 90,
+          "history": 37,
+          "politics": 48
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1767,
+          "chinese": 1940,
+          "math": 1651,
+          "english": 1382,
+          "history": 2139,
+          "politics": 1468
+        },
+        "e2": {
+          "total": 2022,
+          "chinese": 2138,
+          "math": 1955,
+          "english": 1770,
+          "history": 2120,
+          "politics": 2031
+        }
+      }
+    },
+    {
+      "id": "202659116",
+      "name": "刘烨",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 88.5,
+          "math": 110,
+          "english": 116,
+          "history": 59,
+          "politics": 61
+        },
+        "e2": {
+          "chinese": 100,
+          "math": 116,
+          "english": 117,
+          "history": 60,
+          "politics": 55
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 199,
+          "chinese": 176,
+          "math": 358,
+          "english": 108,
+          "history": 567,
+          "politics": 646
+        },
+        "e2": {
+          "total": 474,
+          "chinese": 183,
+          "math": 421,
+          "english": 240,
+          "history": 613,
+          "politics": 1653
+        }
+      }
+    },
+    {
+      "id": "202659117",
+      "name": "彭凯",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 83,
+          "math": 119,
+          "english": 116,
+          "history": 63,
+          "politics": 60
+        },
+        "e2": {
+          "chinese": 97.5,
+          "math": 120,
+          "english": 119,
+          "history": 66,
+          "politics": 60
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 122,
+          "chinese": 593,
+          "math": 30,
+          "english": 108,
+          "history": 178,
+          "politics": 783
+        },
+        "e2": {
+          "total": 140,
+          "chinese": 488,
+          "math": 1,
+          "english": 62,
+          "history": 100,
+          "politics": 1037
+        }
+      }
+    },
+    {
+      "id": "202659118",
+      "name": "乔靖博",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 75,
+          "math": 111,
+          "english": 99,
+          "history": 54,
+          "politics": 57
+        },
+        "e2": {
+          "chinese": 94,
+          "math": 113,
+          "english": 105,
+          "history": 57,
+          "politics": 64
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 954,
+          "chinese": 1465,
+          "math": 296,
+          "english": 1330,
+          "history": 1112,
+          "politics": 1155
+        },
+        "e2": {
+          "total": 864,
+          "chinese": 1006,
+          "math": 648,
+          "english": 1287,
+          "history": 946,
+          "politics": 452
+        }
+      }
+    },
+    {
+      "id": "202659119",
+      "name": "任欣阳",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 75.5,
+          "math": 94.5,
+          "english": 100,
+          "history": 53,
+          "politics": 54
+        },
+        "e2": {
+          "chinese": 91,
+          "math": 108,
+          "english": 107,
+          "history": 58,
+          "politics": 59
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1303,
+          "chinese": 1421,
+          "math": 1197,
+          "english": 1280,
+          "history": 1207,
+          "politics": 1468
+        },
+        "e2": {
+          "total": 1107,
+          "chinese": 1345,
+          "math": 1001,
+          "english": 1169,
+          "history": 837,
+          "politics": 1180
+        }
+      }
+    },
+    {
+      "id": "202659120",
+      "name": "尚鑫培",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 82.5,
+          "math": 110.5,
+          "english": 114,
+          "history": 52,
+          "politics": 55
+        },
+        "e2": {
+          "chinese": 95,
+          "math": 114,
+          "english": 118,
+          "history": 58,
+          "politics": 62
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 590,
+          "chinese": 638,
+          "math": 341,
+          "english": 273,
+          "history": 1311,
+          "politics": 1374
+        },
+        "e2": {
+          "total": 498,
+          "chinese": 855,
+          "math": 552,
+          "english": 121,
+          "history": 837,
+          "politics": 741
+        }
+      }
+    },
+    {
+      "id": "202659121",
+      "name": "石亦家",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 74,
+          "math": 107,
+          "english": 102,
+          "history": 50,
+          "politics": 60
+        },
+        "e2": {
+          "chinese": 90,
+          "math": 104,
+          "english": 109,
+          "history": 53,
+          "politics": 57
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1008,
+          "chinese": 1560,
+          "math": 512,
+          "english": 1175,
+          "history": 1496,
+          "politics": 783
+        },
+        "e2": {
+          "total": 1294,
+          "chinese": 1437,
+          "math": 1212,
+          "english": 1030,
+          "history": 1384,
+          "politics": 1427
+        }
+      }
+    },
+    {
+      "id": "202659122",
+      "name": "史文博",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 80.5,
+          "math": 119,
+          "english": 113,
+          "history": 59,
+          "politics": 57
+        },
+        "e2": {
+          "chinese": 98.5,
+          "math": 120,
+          "english": 115,
+          "history": 64,
+          "politics": 71
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 316,
+          "chinese": 874,
+          "math": 30,
+          "english": 359,
+          "history": 567,
+          "politics": 1155
+        },
+        "e2": {
+          "total": 47,
+          "chinese": 345,
+          "math": 1,
+          "english": 471,
+          "history": 220,
+          "politics": 12
+        }
+      }
+    },
+    {
+      "id": "202659123",
+      "name": "睢毅航",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 81,
+          "math": 119.5,
+          "english": 109,
+          "history": 67,
+          "politics": 59
+        },
+        "e2": {
+          "chinese": 101.5,
+          "math": 108.5,
+          "english": 119,
+          "history": 59,
+          "politics": 65
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 182,
+          "chinese": 803,
+          "math": 21,
+          "english": 685,
+          "history": 20,
+          "politics": 914
+        },
+        "e2": {
+          "total": 346,
+          "chinese": 71,
+          "math": 978,
+          "english": 62,
+          "history": 715,
+          "politics": 324
+        }
+      }
+    },
+    {
+      "id": "202659124",
+      "name": "王贝丞",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 89,
+          "math": 115,
+          "english": 116,
+          "history": 59,
+          "politics": 61
+        },
+        "e2": {
+          "chinese": 95,
+          "math": 114,
+          "english": 119,
+          "history": 56,
+          "politics": 60
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 133,
+          "chinese": 148,
+          "math": 135,
+          "english": 108,
+          "history": 567,
+          "politics": 646
+        },
+        "e2": {
+          "total": 574,
+          "chinese": 855,
+          "math": 552,
+          "english": 62,
+          "history": 1057,
+          "politics": 1037
+        }
+      }
+    },
+    {
+      "id": "202659125",
+      "name": "王卓泓",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 74,
+          "math": 92,
+          "english": 111,
+          "history": 48,
+          "politics": 45
+        },
+        "e2": {
+          "chinese": 91.5,
+          "math": 106,
+          "english": 113,
+          "history": 56,
+          "politics": 61
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1405,
+          "chinese": 1560,
+          "math": 1309,
+          "english": 534,
+          "history": 1653,
+          "politics": 1989
+        },
+        "e2": {
+          "total": 1008,
+          "chinese": 1317,
+          "math": 1095,
+          "english": 704,
+          "history": 1057,
+          "politics": 906
+        }
+      }
+    },
+    {
+      "id": "202659126",
+      "name": "魏柯",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 88,
+          "math": 120,
+          "english": 116,
+          "history": 56,
+          "politics": 59
+        },
+        "e2": {
+          "chinese": 87.5,
+          "math": 117,
+          "english": 113,
+          "history": 50,
+          "politics": 52
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 145,
+          "chinese": 195,
+          "math": 1,
+          "english": 108,
+          "history": 894,
+          "politics": 914
+        },
+        "e2": {
+          "total": 1181,
+          "chinese": 1639,
+          "math": 263,
+          "english": 704,
+          "history": 1639,
+          "politics": 1859
+        }
+      }
+    },
+    {
+      "id": "202659127",
+      "name": "魏硕",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 68,
+          "math": 94.5,
+          "english": 87,
+          "history": 45,
+          "politics": 48
+        },
+        "e2": {
+          "chinese": 87,
+          "math": 114,
+          "english": 88,
+          "history": 48,
+          "politics": 53
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1714,
+          "chinese": 1908,
+          "math": 1197,
+          "english": 1722,
+          "history": 1825,
+          "politics": 1853
+        },
+        "e2": {
+          "total": 1601,
+          "chinese": 1671,
+          "math": 552,
+          "english": 1804,
+          "history": 1768,
+          "politics": 66
+        }
+      }
+    },
+    {
+      "id": "202659128",
+      "name": "夏伯涵",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 71.5,
+          "math": 97,
+          "english": 86,
+          "history": 52,
+          "politics": 56
+        },
+        "e2": {
+          "chinese": 86.5,
+          "math": 90,
+          "english": 103,
+          "history": 51,
+          "politics": 62.0
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1509,
+          "chinese": 1739,
+          "math": 1069,
+          "english": 1748,
+          "history": 1311,
+          "politics": 1259
+        },
+        "e2": {
+          "total": 1566,
+          "chinese": 1709,
+          "math": 1765,
+          "english": 1380,
+          "history": 1556,
+          "politics": 741
+        }
+      }
+    },
+    {
+      "id": "202659129",
+      "name": "肖扬",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 75.5,
+          "math": 118,
+          "english": 101,
+          "history": 53,
+          "politics": 52
+        },
+        "e2": {
+          "chinese": 91.5,
+          "math": 113,
+          "english": 108,
+          "history": 53,
+          "politics": 64
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 892,
+          "chinese": 1421,
+          "math": 45,
+          "english": 1229,
+          "history": 1207,
+          "politics": 1631
+        },
+        "e2": {
+          "total": 973,
+          "chinese": 1317,
+          "math": 648,
+          "english": 1088,
+          "history": 1384,
+          "politics": 452
+        }
+      }
+    },
+    {
+      "id": "202659130",
+      "name": "杨皓程",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 81,
+          "math": 106,
+          "english": 116,
+          "history": 63,
+          "politics": 57
+        },
+        "e2": {
+          "chinese": 93,
+          "math": 117,
+          "english": 118,
+          "history": 58,
+          "politics": 63
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 418,
+          "chinese": 803,
+          "math": 563,
+          "english": 108,
+          "history": 178,
+          "politics": 1155
+        },
+        "e2": {
+          "total": 451,
+          "chinese": 1143,
+          "math": 263,
+          "english": 121,
+          "history": 837,
+          "politics": 601
+        }
+      }
+    },
+    {
+      "id": "202659131",
+      "name": "杨焜",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 72.5,
+          "math": 117,
+          "english": 111,
+          "history": 49,
+          "politics": 53
+        },
+        "e2": {
+          "chinese": 86,
+          "math": 114,
+          "english": 119,
+          "history": 61,
+          "politics": 58
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 833,
+          "chinese": 1670,
+          "math": 54,
+          "english": 534,
+          "history": 1572,
+          "politics": 1564
+        },
+        "e2": {
+          "total": 735,
+          "chinese": 1734,
+          "math": 552,
+          "english": 62,
+          "history": 487,
+          "politics": 1294
+        }
+      }
+    },
+    {
+      "id": "202659132",
+      "name": "杨硕",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 72,
+          "math": 91.5,
+          "english": 99,
+          "history": 55,
+          "politics": 55
+        },
+        "e2": {
+          "chinese": 92,
+          "math": 104,
+          "english": 99,
+          "history": 56,
+          "politics": 56
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1375,
+          "chinese": 1700,
+          "math": 1337,
+          "english": 1330,
+          "history": 1007,
+          "politics": 1374
+        },
+        "e2": {
+          "total": 1396,
+          "chinese": 1251,
+          "math": 1212,
+          "english": 1546,
+          "history": 1057,
+          "politics": 1541
+        }
+      }
+    },
+    {
+      "id": "202659133",
+      "name": "杨子兴",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 71.5,
+          "math": 100,
+          "english": 109,
+          "history": 51,
+          "politics": 55
+        },
+        "e2": {
+          "chinese": 89,
+          "math": 113.5,
+          "english": 116,
+          "history": 62,
+          "politics": 61
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1138,
+          "chinese": 1739,
+          "math": 901,
+          "english": 685,
+          "history": 1403,
+          "politics": 1374
+        },
+        "e2": {
+          "total": 652,
+          "chinese": 1513,
+          "math": 613,
+          "english": 362,
+          "history": 398,
+          "politics": 906
+        }
+      }
+    },
+    {
+      "id": "202659134",
+      "name": "张恒睿",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 83,
+          "math": 92,
+          "english": 99,
+          "history": 57,
+          "politics": 59
+        },
+        "e2": {
+          "chinese": 88.5,
+          "math": 102.5,
+          "english": 105,
+          "history": 60,
+          "politics": 58
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1064,
+          "chinese": 593,
+          "math": 1309,
+          "english": 1330,
+          "history": 778,
+          "politics": 914
+        },
+        "e2": {
+          "total": 1277,
+          "chinese": 1569,
+          "math": 1283,
+          "english": 1287,
+          "history": 613,
+          "politics": 1294
+        }
+      }
+    },
+    {
+      "id": "202659135",
+      "name": "张弘毅",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 93.5,
+          "math": 117,
+          "english": 117,
+          "history": 65,
+          "politics": 64
+        },
+        "e2": {
+          "chinese": 104.5,
+          "math": 105.5,
+          "english": 116,
+          "history": 60,
+          "politics": 64
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 15,
+          "chinese": 27,
+          "math": 54,
+          "english": 65,
+          "history": 71,
+          "politics": 302
+        },
+        "e2": {
+          "total": 417,
+          "chinese": 5,
+          "math": 1148,
+          "english": 362,
+          "history": 613,
+          "politics": 452
+        }
+      }
+    },
+    {
+      "id": "202659136",
+      "name": "张兆锋",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 76.5,
+          "math": 116,
+          "english": 110,
+          "history": 46,
+          "politics": 54
+        },
+        "e2": {
+          "chinese": 91,
+          "math": 101,
+          "english": 118,
+          "history": 48,
+          "politics": 65
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 833,
+          "chinese": 1325,
+          "math": 109,
+          "english": 609,
+          "history": 1760,
+          "politics": 1468
+        },
+        "e2": {
+          "total": 1107,
+          "chinese": 1345,
+          "math": 1356,
+          "english": 121,
+          "history": 1768,
+          "politics": 324
+        }
+      }
+    },
+    {
+      "id": "202659137",
+      "name": "张哲铭",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 76,
+          "math": 97,
+          "english": 111,
+          "history": 49,
+          "politics": 57
+        },
+        "e2": {
+          "chinese": 86.5,
+          "math": 116.5,
+          "english": 104,
+          "history": 61,
+          "politics": 65
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1064,
+          "chinese": 1371,
+          "math": 1069,
+          "english": 534,
+          "history": 1572,
+          "politics": 1155
+        },
+        "e2": {
+          "total": 864,
+          "chinese": 1709,
+          "math": 375,
+          "english": 1328,
+          "history": 487,
+          "politics": 324
+        }
+      }
+    },
+    {
+      "id": "202659138",
+      "name": "赵炫",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 88.5,
+          "math": 110.5,
+          "english": 113,
+          "history": 59,
+          "politics": 64
+        },
+        "e2": {
+          "chinese": 102.5,
+          "math": 118,
+          "english": 116,
+          "history": 62,
+          "politics": 65
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 188,
+          "chinese": 176,
+          "math": 341,
+          "english": 359,
+          "history": 567,
+          "politics": 302
+        },
+        "e2": {
+          "total": 120,
+          "chinese": 37,
+          "math": 230,
+          "english": 362,
+          "history": 398,
+          "politics": 324
+        }
+      }
+    },
+    {
+      "id": "202659139",
+      "name": "赵正帅",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 71.5,
+          "math": 96.5,
+          "english": 113,
+          "history": 54,
+          "politics": 57
+        },
+        "e2": {
+          "chinese": 93.5,
+          "math": 117,
+          "english": 117,
+          "history": 42,
+          "politics": 54
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1028,
+          "chinese": 1739,
+          "math": 1108,
+          "english": 359,
+          "history": 1112,
+          "politics": 1155
+        },
+        "e2": {
+          "total": 1098,
+          "chinese": 1090,
+          "math": 263,
+          "english": 240,
+          "history": 1997,
+          "politics": 1746
+        }
+      }
+    },
+    {
+      "id": "202659140",
+      "name": "周铄",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 75,
+          "math": 94.5,
+          "english": 101,
+          "history": 53,
+          "politics": 67
+        },
+        "e2": {
+          "chinese": 92,
+          "math": 102,
+          "english": 110,
+          "history": 56,
+          "politics": 66
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1053,
+          "chinese": 1465,
+          "math": 1197,
+          "english": 1229,
+          "history": 1207,
+          "politics": 82
+        },
+        "e2": {
+          "total": 1039,
+          "chinese": 1251,
+          "math": 1302,
+          "english": 961,
+          "history": 1057,
+          "politics": 211
+        }
+      }
+    },
+    {
+      "id": "202659141",
+      "name": "白馥菲",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 89,
+          "math": 102,
+          "english": 112,
+          "history": 54,
+          "politics": 55
+        },
+        "e2": {
+          "chinese": 95.5,
+          "math": 116,
+          "english": 118,
+          "history": 62,
+          "politics": 58
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 636,
+          "chinese": 148,
+          "math": 802,
+          "english": 455,
+          "history": 1112,
+          "politics": 1374
+        },
+        "e2": {
+          "total": 439,
+          "chinese": 778,
+          "math": 421,
+          "english": 121,
+          "history": 398,
+          "politics": 1294
+        }
+      }
+    },
+    {
+      "id": "202659142",
+      "name": "白雨睿",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 76.5,
+          "math": 113.5,
+          "english": 108,
+          "history": 55,
+          "politics": 59
+        },
+        "e2": {
+          "chinese": 91,
+          "math": 117,
+          "english": 114,
+          "history": 56,
+          "politics": 56
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 636,
+          "chinese": 1325,
+          "math": 210,
+          "english": 770,
+          "history": 1007,
+          "politics": 914
+        },
+        "e2": {
+          "total": 839,
+          "chinese": 1345,
+          "math": 263,
+          "english": 589,
+          "history": 1057,
+          "politics": 1541
+        }
+      }
+    },
+    {
+      "id": "202659143",
+      "name": "曹婧",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 81,
+          "math": 107,
+          "english": 104,
+          "history": 60,
+          "politics": 62
+        },
+        "e2": {
+          "chinese": 97.5,
+          "math": 115,
+          "english": 115,
+          "history": 64,
+          "politics": 64
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 590,
+          "chinese": 803,
+          "math": 512,
+          "english": 1054,
+          "history": 470,
+          "politics": 515
+        },
+        "e2": {
+          "total": 277,
+          "chinese": 488,
+          "math": 460,
+          "english": 471,
+          "history": 220,
+          "politics": 452
+        }
+      }
+    },
+    {
+      "id": "202659144",
+      "name": "曹诗琪",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 76.5,
+          "math": 113,
+          "english": 116,
+          "history": 62,
+          "politics": 56
+        },
+        "e2": {
+          "chinese": 100,
+          "math": 113.5,
+          "english": 113,
+          "history": 60,
+          "politics": 70
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 412,
+          "chinese": 1325,
+          "math": 230,
+          "english": 108,
+          "history": 258,
+          "politics": 1259
+        },
+        "e2": {
+          "total": 246,
+          "chinese": 183,
+          "math": 613,
+          "english": 704,
+          "history": 613,
+          "politics": 18
+        }
+      }
+    },
+    {
+      "id": "202659145",
+      "name": "杜宛轩",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 79.5,
+          "math": 93,
+          "english": 107,
+          "history": 44,
+          "politics": 52
+        },
+        "e2": {
+          "chinese": 94,
+          "math": 92.5,
+          "english": 109,
+          "history": 50,
+          "politics": 56
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1331,
+          "chinese": 1008,
+          "math": 1254,
+          "english": 844,
+          "history": 1885,
+          "politics": 1631
+        },
+        "e2": {
+          "total": 1470,
+          "chinese": 1006,
+          "math": 1704,
+          "english": 1030,
+          "history": 1639,
+          "politics": 1541
+        }
+      }
+    },
+    {
+      "id": "202659146",
+      "name": "高芷涵",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 91,
+          "math": 117,
+          "english": 118,
+          "history": 62,
+          "politics": 57
+        },
+        "e2": {
+          "chinese": 101,
+          "math": 112,
+          "english": 120,
+          "history": 58,
+          "politics": 62
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 79,
+          "chinese": 69,
+          "math": 54,
+          "english": 26,
+          "history": 258,
+          "politics": 1155
+        },
+        "e2": {
+          "total": 346,
+          "chinese": 100,
+          "math": 706,
+          "english": 1,
+          "history": 837,
+          "politics": 741
+        }
+      }
+    },
+    {
+      "id": "202659147",
+      "name": "关雅锐",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 80.5,
+          "math": 111.5,
+          "english": 110,
+          "history": 41,
+          "politics": 53
+        },
+        "e2": {
+          "chinese": 92,
+          "math": 118,
+          "english": 106,
+          "history": 56,
+          "politics": 58
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 954,
+          "chinese": 874,
+          "math": 287,
+          "english": 609,
+          "history": 2009,
+          "politics": 1564
+        },
+        "e2": {
+          "total": 953,
+          "chinese": 1251,
+          "math": 230,
+          "english": 1233,
+          "history": 1057,
+          "politics": 1294
+        }
+      }
+    },
+    {
+      "id": "202659148",
+      "name": "关雅臻",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 84,
+          "math": 110.5,
+          "english": 113,
+          "history": 62,
+          "politics": 61
+        },
+        "e2": {
+          "chinese": 101.5,
+          "math": 120.0,
+          "english": 118,
+          "history": 66,
+          "politics": 68
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 275,
+          "chinese": 500,
+          "math": 341,
+          "english": 359,
+          "history": 258,
+          "politics": 646
+        },
+        "e2": {
+          "total": 17,
+          "chinese": 71,
+          "math": 1,
+          "english": 121,
+          "history": 100,
+          "politics": 74
+        }
+      }
+    },
+    {
+      "id": "202659149",
+      "name": "郭可馨",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 80.5,
+          "math": 114.5,
+          "english": 114,
+          "history": 51,
+          "politics": 57
+        },
+        "e2": {
+          "chinese": 90.5,
+          "math": 119.5,
+          "english": 116,
+          "history": 47,
+          "politics": 66
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 529,
+          "chinese": 874,
+          "math": 156,
+          "english": 273,
+          "history": 1403,
+          "politics": 1155
+        },
+        "e2": {
+          "total": 713,
+          "chinese": 1384,
+          "math": 147,
+          "english": 362,
+          "history": 1815,
+          "politics": 211
+        }
+      }
+    },
+    {
+      "id": "202659150",
+      "name": "郭婉滢",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 66,
+          "math": 86.5,
+          "english": 93,
+          "history": 36,
+          "politics": 47
+        },
+        "e2": {
+          "chinese": 80.5,
+          "math": 96,
+          "english": 98,
+          "history": 40,
+          "politics": 52
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1821,
+          "chinese": 1998,
+          "math": 1499,
+          "english": 1562,
+          "history": 2120,
+          "politics": 1902
+        },
+        "e2": {
+          "total": 1799,
+          "chinese": 1981,
+          "math": 1573,
+          "english": 1580,
+          "history": 2055,
+          "politics": 1859
+        }
+      }
+    },
+    {
+      "id": "202659151",
+      "name": "雷佳鑫",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 71,
+          "math": 42,
+          "english": 70,
+          "history": 35,
+          "politics": 48
+        },
+        "e2": {
+          "chinese": 85,
+          "math": 59,
+          "english": 80,
+          "history": 43,
+          "politics": 58
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 2115,
+          "chinese": 1756,
+          "math": 2183,
+          "english": 1998,
+          "history": 2139,
+          "politics": 1853
+        },
+        "e2": {
+          "total": 2020,
+          "chinese": 1793,
+          "math": 2139,
+          "english": 1913,
+          "history": 1955,
+          "politics": 1294
+        }
+      }
+    },
+    {
+      "id": "202659152",
+      "name": "李琳",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 79.5,
+          "math": 101.5,
+          "english": 115,
+          "history": 56,
+          "politics": 65
+        },
+        "e2": {
+          "chinese": 95,
+          "math": 113.5,
+          "english": 116,
+          "history": 59,
+          "politics": 61
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 529,
+          "chinese": 1008,
+          "math": 836,
+          "english": 191,
+          "history": 894,
+          "politics": 227
+        },
+        "e2": {
+          "total": 561,
+          "chinese": 855,
+          "math": 613,
+          "english": 362,
+          "history": 715,
+          "politics": 906
+        }
+      }
+    },
+    {
+      "id": "202659153",
+      "name": "李诗如",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 90,
+          "math": 117.5,
+          "english": 112,
+          "history": 64,
+          "politics": 53
+        },
+        "e2": {
+          "chinese": 101,
+          "math": 120,
+          "english": 118,
+          "history": 60,
+          "politics": 69
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 171,
+          "chinese": 103,
+          "math": 51,
+          "english": 455,
+          "history": 111,
+          "politics": 1564
+        },
+        "e2": {
+          "total": 52,
+          "chinese": 100,
+          "math": 1,
+          "english": 121,
+          "history": 613,
+          "politics": 45
+        }
+      }
+    },
+    {
+      "id": "202659154",
+      "name": "李钰漩",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 71,
+          "math": 97,
+          "english": 101,
+          "history": 51,
+          "politics": 49
+        },
+        "e2": {
+          "chinese": 89,
+          "math": 107.5,
+          "english": 101,
+          "history": 50,
+          "politics": 55.0
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1415,
+          "chinese": 1756,
+          "math": 1069,
+          "english": 1229,
+          "history": 1403,
+          "politics": 1801
+        },
+        "e2": {
+          "total": 1455,
+          "chinese": 1513,
+          "math": 1033,
+          "english": 1474,
+          "history": 1639,
+          "politics": 1653
+        }
+      }
+    },
+    {
+      "id": "202659155",
+      "name": "李贞",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 85,
+          "math": 107.5,
+          "english": 107,
+          "history": 58,
+          "politics": 52
+        },
+        "e2": {
+          "chinese": 97,
+          "math": 117,
+          "english": 119,
+          "history": 61,
+          "politics": 61
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 699,
+          "chinese": 404,
+          "math": 487,
+          "english": 844,
+          "history": 680,
+          "politics": 1631
+        },
+        "e2": {
+          "total": 285,
+          "chinese": 559,
+          "math": 263,
+          "english": 62,
+          "history": 487,
+          "politics": 906
+        }
+      }
+    },
+    {
+      "id": "202659156",
+      "name": "刘思涵",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 90,
+          "math": 97,
+          "english": 109,
+          "history": 60,
+          "politics": 67
+        },
+        "e2": {
+          "chinese": 96,
+          "math": 114,
+          "english": 118,
+          "history": 56,
+          "politics": 66
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 418,
+          "chinese": 103,
+          "math": 1069,
+          "english": 685,
+          "history": 470,
+          "politics": 82
+        },
+        "e2": {
+          "total": 417,
+          "chinese": 700,
+          "math": 552,
+          "english": 121,
+          "history": 1057,
+          "politics": 211
+        }
+      }
+    },
+    {
+      "id": "202659157",
+      "name": "刘奕涵",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 76,
+          "math": 102,
+          "english": 114,
+          "history": 53,
+          "politics": 61
+        },
+        "e2": {
+          "chinese": 96,
+          "math": 110,
+          "english": 117,
+          "history": 63,
+          "politics": 67
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 771,
+          "chinese": 1371,
+          "math": 802,
+          "english": 273,
+          "history": 1207,
+          "politics": 646
+        },
+        "e2": {
+          "total": 346,
+          "chinese": 700,
+          "math": 870,
+          "english": 240,
+          "history": 306,
+          "politics": 116
+        }
+      }
+    },
+    {
+      "id": "202659158",
+      "name": "刘宇馨",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 69.5,
+          "math": 97,
+          "english": 110,
+          "history": 35,
+          "politics": 48
+        },
+        "e2": {
+          "chinese": 91,
+          "math": 111,
+          "english": 113,
+          "history": 39,
+          "politics": 58
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1544,
+          "chinese": 1839,
+          "math": 1069,
+          "english": 609,
+          "history": 2139,
+          "politics": 1853
+        },
+        "e2": {
+          "total": 1304,
+          "chinese": 1345,
+          "math": 809,
+          "english": 704,
+          "history": 2073,
+          "politics": 1294
+        }
+      }
+    },
+    {
+      "id": "202659159",
+      "name": "孟铄",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 82,
+          "math": 117,
+          "english": 116,
+          "history": 59,
+          "politics": 60
+        },
+        "e2": {
+          "chinese": 91.5,
+          "math": 102,
+          "english": 110,
+          "history": 58,
+          "politics": 70
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 210,
+          "chinese": 688,
+          "math": 54,
+          "english": 108,
+          "history": 567,
+          "politics": 783
+        },
+        "e2": {
+          "total": 915,
+          "chinese": 1317,
+          "math": 1302,
+          "english": 961,
+          "history": 837,
+          "politics": 18
+        }
+      }
+    },
+    {
+      "id": "202659160",
+      "name": "庞静优",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 81.5,
+          "math": 107,
+          "english": 97,
+          "history": 49,
+          "politics": 63
+        },
+        "e2": {
+          "chinese": 96,
+          "math": 102,
+          "english": 103,
+          "history": 63,
+          "politics": 70
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 927,
+          "chinese": 746,
+          "math": 512,
+          "english": 1427,
+          "history": 1572,
+          "politics": 415
+        },
+        "e2": {
+          "total": 839,
+          "chinese": 700,
+          "math": 1302,
+          "english": 1380,
+          "history": 300,
+          "politics": 18
+        }
+      }
+    },
+    {
+      "id": "202659161",
+      "name": "屈畅",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 89.5,
+          "math": 111,
+          "english": 118,
+          "history": 60,
+          "politics": 62
+        },
+        "e2": {
+          "chinese": 100,
+          "math": 115,
+          "english": 119,
+          "history": 68,
+          "politics": 64
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 128,
+          "chinese": 128,
+          "math": 296,
+          "english": 26,
+          "history": 470,
+          "politics": 515
+        },
+        "e2": {
+          "total": 82,
+          "chinese": 183,
+          "math": 460,
+          "english": 62,
+          "history": 30,
+          "politics": 452
+        }
+      }
+    },
+    {
+      "id": "202659162",
+      "name": "史雅博",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 86.5,
+          "math": 113.5,
+          "english": 117,
+          "history": 66,
+          "politics": 61
+        },
+        "e2": {
+          "chinese": 102,
+          "math": 117,
+          "english": 117,
+          "history": 66,
+          "politics": 68
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 90,
+          "chinese": 289,
+          "math": 210,
+          "english": 65,
+          "history": 38,
+          "politics": 646
+        },
+        "e2": {
+          "total": 37,
+          "chinese": 52,
+          "math": 263,
+          "english": 240,
+          "history": 100,
+          "politics": 74
+        }
+      }
+    },
+    {
+      "id": "202659163",
+      "name": "孙辰钰",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 82.5,
+          "math": 94.5,
+          "english": 102,
+          "history": 53,
+          "politics": 60
+        },
+        "e2": {
+          "chinese": 92,
+          "math": 116.5,
+          "english": 102,
+          "history": 58,
+          "politics": 63
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1028,
+          "chinese": 638,
+          "math": 1197,
+          "english": 1175,
+          "history": 1207,
+          "politics": 783
+        },
+        "e2": {
+          "total": 915,
+          "chinese": 1251,
+          "math": 375,
+          "english": 1424,
+          "history": 837,
+          "politics": 601
+        }
+      }
+    },
+    {
+      "id": "202659164",
+      "name": "王茜",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 83.5,
+          "math": 101,
+          "english": 110,
+          "history": 53,
+          "politics": 49
+        },
+        "e2": {
+          "chinese": 87,
+          "math": 106,
+          "english": 111,
+          "history": 53,
+          "politics": 62
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 945,
+          "chinese": 542,
+          "math": 850,
+          "english": 609,
+          "history": 1207,
+          "politics": 1801
+        },
+        "e2": {
+          "total": 1188,
+          "chinese": 1671,
+          "math": 1095,
+          "english": 876,
+          "history": 1384,
+          "politics": 741
+        }
+      }
+    },
+    {
+      "id": "202659165",
+      "name": "吴晓丹",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 70.5,
+          "math": 58.5,
+          "english": 48,
+          "history": 49,
+          "politics": 45
+        },
+        "e2": {
+          "chinese": 85,
+          "math": 69,
+          "english": 58,
+          "history": 38,
+          "politics": 52
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 2103,
+          "chinese": 1787,
+          "math": 2090,
+          "english": 2167,
+          "history": 1572,
+          "politics": 1989
+        },
+        "e2": {
+          "total": 2092,
+          "chinese": 1793,
+          "math": 2081,
+          "english": 2110,
+          "history": 2100,
+          "politics": 1859
+        }
+      }
+    },
+    {
+      "id": "202659166",
+      "name": "武雅静",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 73,
+          "math": 75.5,
+          "english": 106,
+          "history": 54,
+          "politics": 50
+        },
+        "e2": {
+          "chinese": 86.5,
+          "math": 102,
+          "english": 100,
+          "history": 47,
+          "politics": 48
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1554,
+          "chinese": 1624,
+          "math": 1823,
+          "english": 908,
+          "history": 1112,
+          "politics": 1759
+        },
+        "e2": {
+          "total": 1665,
+          "chinese": 1709,
+          "math": 1302,
+          "english": 1517,
+          "history": 1815,
+          "politics": 2031
+        }
+      }
+    },
+    {
+      "id": "202659167",
+      "name": "徐雨曦",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 92,
+          "math": 116.5,
+          "english": 108,
+          "history": 50,
+          "politics": 60
+        },
+        "e2": {
+          "chinese": 102,
+          "math": 117,
+          "english": 114,
+          "history": 60,
+          "politics": 61
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 353,
+          "chinese": 50,
+          "math": 97,
+          "english": 770,
+          "history": 1496,
+          "politics": 783
+        },
+        "e2": {
+          "total": 312,
+          "chinese": 52,
+          "math": 263,
+          "english": 589,
+          "history": 613,
+          "politics": 906
+        }
+      }
+    },
+    {
+      "id": "202659168",
+      "name": "薛浩怡",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 81,
+          "math": 92,
+          "english": 105,
+          "history": 47,
+          "politics": 58
+        },
+        "e2": {
+          "chinese": 93.5,
+          "math": 83.5,
+          "english": 101,
+          "history": 51,
+          "politics": 59
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1202,
+          "chinese": 803,
+          "math": 1309,
+          "english": 981,
+          "history": 1712,
+          "politics": 1026
+        },
+        "e2": {
+          "total": 1622,
+          "chinese": 1090,
+          "math": 1919,
+          "english": 1474,
+          "history": 1556,
+          "politics": 1180
+        }
+      }
+    },
+    {
+      "id": "202659169",
+      "name": "尹梓熙",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 77.5,
+          "math": 87,
+          "english": 88,
+          "history": 43,
+          "politics": 51
+        },
+        "e2": {
+          "chinese": 83.5,
+          "math": 95,
+          "english": 88,
+          "history": 43,
+          "politics": 63
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 1678,
+          "chinese": 1220,
+          "math": 1480,
+          "english": 1699,
+          "history": 1928,
+          "politics": 1696
+        },
+        "e2": {
+          "total": 1766,
+          "chinese": 1868,
+          "math": 1612,
+          "english": 1804,
+          "history": 1955,
+          "politics": 601
+        }
+      }
+    },
+    {
+      "id": "202659170",
+      "name": "张红莲",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 82,
+          "math": 105,
+          "english": 116,
+          "history": 63,
+          "politics": 64
+        },
+        "e2": {
+          "chinese": 92,
+          "math": 119.5,
+          "english": 113,
+          "history": 61,
+          "politics": 66
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 282,
+          "chinese": 688,
+          "math": 622,
+          "english": 108,
+          "history": 178,
+          "politics": 302
+        },
+        "e2": {
+          "total": 391,
+          "chinese": 1251,
+          "math": 147,
+          "english": 704,
+          "history": 487,
+          "politics": 211
+        }
+      }
+    },
+    {
+      "id": "202659171",
+      "name": "张潇",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 86.5,
+          "math": 115,
+          "english": 117,
+          "history": 61,
+          "politics": 54
+        },
+        "e2": {
+          "chinese": 97,
+          "math": 113,
+          "english": 117,
+          "history": 63,
+          "politics": 63
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 222,
+          "chinese": 289,
+          "math": 135,
+          "english": 65,
+          "history": 352,
+          "politics": 1468
+        },
+        "e2": {
+          "total": 346,
+          "chinese": 559,
+          "math": 648,
+          "english": 240,
+          "history": 306,
+          "politics": 601
+        }
+      }
+    },
+    {
+      "id": "202659172",
+      "name": "张雅轩",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 92.5,
+          "math": 108,
+          "english": 120,
+          "history": 59,
+          "politics": 55
+        },
+        "e2": {
+          "chinese": 98,
+          "math": 120,
+          "english": 118,
+          "history": 67,
+          "politics": 63
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 199,
+          "chinese": 43,
+          "math": 462,
+          "english": 1,
+          "history": 567,
+          "politics": 1374
+        },
+        "e2": {
+          "total": 82,
+          "chinese": 419,
+          "math": 1,
+          "english": 121,
+          "history": 52,
+          "politics": 601
+        }
+      }
+    },
+    {
+      "id": "202659173",
+      "name": "闫歆雨",
+      "pin": false,
+      "gender": "",
+      "scores": {
+        "e1": {
+          "chinese": 87,
+          "math": 107,
+          "english": 107,
+          "history": 54,
+          "politics": 59
+        },
+        "e2": {
+          "chinese": 97,
+          "math": 116.5,
+          "english": 113,
+          "history": 63,
+          "politics": 61
+        }
+      },
+      "ranks": {
+        "e1": {
+          "total": 590,
+          "chinese": 249,
+          "math": 512,
+          "english": 844,
+          "history": 1112,
+          "politics": 914
+        },
+        "e2": {
+          "total": 409,
+          "chinese": 559,
+          "math": 375,
+          "english": 704,
+          "history": 306,
+          "politics": 906
+        }
+      }
+    }
+  ]
+}

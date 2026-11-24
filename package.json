@@ -1,0 +1,37 @@
+{
+  "name": "study-compass-vue",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "学情罗盘 · Study Compass (Vue 3 + Vant 4 + ECharts) 班级/年级成绩可视化分析，移动/PC 双端；接口挡板为纯 JSON 数据（mock/data），造数脚本在 scripts/seed.mjs",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 8080",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0 --port 8080",
+    "seed": "node scripts/seed.mjs",
+    "test:logic": "node scripts/logic.test.mjs",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dayjs": "^1.11.13",
+    "echarts": "^5.5.1",
+    "pinia": "^2.2.4",
+    "vant": "^4.9.7",
+    "vue": "^3.5.12",
+    "vue-echarts": "^7.0.3",
+    "vue-router": "^4.6.5",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vant/auto-import-resolver": "^1.2.1",
+    "@vitejs/plugin-vue": "^5.1.4",
+    "@vue/test-utils": "^2.6.0",
+    "happy-dom": "^21.0.4",
+    "unplugin-auto-import": "^0.18.3",
+    "unplugin-vue-components": "^0.27.4",
+    "vite": "^5.4.10",
+    "vitest": "^2.1.9"
+  }
+}

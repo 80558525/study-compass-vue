@@ -1,0 +1,32 @@
+[
+  {
+    "key": "chinese",
+    "name": "语文",
+    "full": 120,
+    "color": "#C0392B"
+  },
+  {
+    "key": "math",
+    "name": "数学",
+    "full": 120,
+    "color": "#2E5E8C"
+  },
+  {
+    "key": "english",
+    "name": "英语",
+    "full": 120,
+    "color": "#2F7E5B"
+  },
+  {
+    "key": "history",
+    "name": "历史",
+    "full": 75,
+    "color": "#7A5AA6"
+  },
+  {
+    "key": "politics",
+    "name": "道德与法治",
+    "full": 75,
+    "color": "#B07A2A"
+  }
+]
