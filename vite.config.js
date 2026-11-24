@@ -8,6 +8,8 @@ import { VantResolver } from '@vant/auto-import-resolver'
 // 后期接真实后端：新建 .env.local 写 VITE_USE_MOCK=false 与 VITE_API_BASE=http://your-host，
 // 组件与页面无需改动，src/api/grade.js 会自动改成请求真实接口。
 export default defineConfig({
+  // GitHub Pages 项目站部署路径；本地 dev/preview 不受影响
+  base: '/study-compass-vue/',
   plugins: [
     vue(),
     AutoImport({ imports: ['vue'] }),
