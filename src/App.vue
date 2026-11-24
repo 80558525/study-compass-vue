@@ -3,7 +3,7 @@
     <header v-if="store.authed" class="sc-header">
       <div class="sc-brand">
         <h1>学情<em>罗盘</em></h1>
-        <div class="sc-sub">班级 / 年级成绩可视化分析 · 多班级 mock · 实时联动 · 一键导出 Excel</div>
+        <div class="sc-sub">班级 / 年级成绩可视化分析 · 实时联动 · 一键导出 Excel</div>
       </div>
       <div class="sc-head-tools">
         <div v-if="store.authed" class="sc-user" :title="'关注学生：' + store.pinName">
@@ -49,23 +49,53 @@
     </template>
 
     <main>
-      <van-loading v-if="store.authed && store.loading" class="sc-loading" vertical>加载数据…</van-loading>
-      <router-view v-else />
+      <router-view v-slot="{ Component }">
+        <transition name="sc-fade" mode="out-in">
+          <component :is="Component" />
+        </transition>
+      </router-view>
     </main>
 
-    <footer v-if="store.authed" class="sc-footer">学情罗盘 · Study Compass · 数据来自 mock 接口（mock/ 目录可改）</footer>
+    <transition name="sc-fade">
+      <div v-if="showOverlay" class="sc-boot">
+        <div class="sc-boot-inner">
+          <svg class="sc-boot-compass" viewBox="0 0 48 48" width="56" height="56" aria-hidden="true">
+            <circle cx="24" cy="24" r="21" fill="none" stroke="currentColor" stroke-width="2" opacity=".25" />
+            <circle cx="24" cy="24" r="2.4" fill="currentColor" />
+            <g class="needle">
+              <path d="M24 9 L28 24 L24 20.5 L20 24 Z" fill="#C0392B" />
+              <path d="M24 39 L20 24 L24 27.5 L28 24 Z" fill="#1E2430" />
+            </g>
+          </svg>
+          <van-loading type="spinner" color="#C0392B" :size="24" vertical>加载中…</van-loading>
+        </div>
+      </div>
+    </transition>
+
+    <footer v-if="store.authed" class="sc-footer">学情罗盘 · Study Compass · 数据来自 Long He</footer>
   </div>
 </template>
 
 <script setup>
-import { onMounted, computed } from 'vue'
+import { onMounted, computed, ref, watch } from 'vue'
 import { useRouter } from 'vue-router'
 import { useGradeStore } from './stores/grade'
+import { navLoading } from './composables/navLoading'
 import ClassBar from './components/ClassBar.vue'
 
 const store = useGradeStore()
 const router = useRouter()
 const userInitial = computed(() => (store.pinName || '学').trim().charAt(0) || '学')
+
+// 跳转 loading：数据加载(启动) 或 路由切换时显示遮罩；设最小可见时长避免闪烁
+const navBusy = ref(false)
+let navTimer = null
+watch(navLoading, (v) => {
+  if (v) { clearTimeout(navTimer); navBusy.value = true }
+  else { clearTimeout(navTimer); navTimer = setTimeout(() => { navBusy.value = false }, 400) }
+})
+const showOverlay = computed(() => navBusy.value || store.loading)
+
 onMounted(() => store.init())
 function onLogout() {
   store.logout()
@@ -93,7 +123,13 @@ function onLogout() {
   .sc-logout span { display: none; }
   .sc-header .sc-logo { display: none; }
 }
-.sc-loading { padding: 60px 0; text-align: center; }
+.sc-boot { position: fixed; inset: 0; z-index: 2000; display: flex; align-items: center; justify-content: center; background: rgba(244, 238, 226, .82); backdrop-filter: blur(2px); -webkit-backdrop-filter: blur(2px); }
+.sc-boot-inner { display: flex; flex-direction: column; align-items: center; gap: 14px; color: var(--sc-ink); }
+.sc-boot-compass { color: var(--sc-ink-soft); }
+.sc-boot-compass .needle { transform-origin: 24px 24px; animation: sc-spin 1.1s linear infinite; }
+@keyframes sc-spin { to { transform: rotate(360deg); } }
+.sc-fade-enter-active, .sc-fade-leave-active { transition: opacity .18s ease; }
+.sc-fade-enter-from, .sc-fade-leave-to { opacity: 0; }
 main { padding-top: 16px; }
 .sc-tabs { display: flex; overflow-x: auto; background: var(--sc-paper); border-bottom: 1px solid var(--sc-line); padding: 0 16px; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
 .sc-tabs::-webkit-scrollbar { display: none; }
